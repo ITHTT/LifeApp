@@ -1,0 +1,2 @@
+include ':lib', ':photochoser'
+include ':app'
